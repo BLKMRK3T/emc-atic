@@ -30,15 +30,15 @@
     "entity_health": true,
     "energy_storage": true,
     "entity_armor.max_for_render": 40,
-    "enchantment_power": true,
     "breaking_progress": true,
+    "enchantment_power": true,
     "tnt_stability": true,
     "villager_profession": true,
     "mob_breeding": true,
     "entity_health.icons_per_line": 10,
     "item_frame": true,
-    "crop_progress": true,
     "fluid.detailed": false,
+    "crop_progress": true,
     "total_enchantment_power": true,
     "potion_effects": true,
     "command_block": true,
@@ -55,6 +55,14 @@
     "hud.status": true,
     "hud.contents": true
   },
+  "pneumaticcraft": {
+    "pneumatic": true,
+    "tube_module": true,
+    "entity": true,
+    "redstone": true,
+    "camo": true,
+    "semiblock": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -68,9 +76,15 @@
     "ench": true,
     "spawner": true
   },
+  "productivebees": {
+    "solitary_nest": true,
+    "jar": true,
+    "bee_attributes": true,
+    "productive_bee": true
+  },
   "extendedcrafting": {
-    "ender_crafter": true,
     "elite_auto_table": true,
+    "ender_crafter": true,
     "basic_auto_table": true,
     "flux_crafter": true,
     "advanced_table": true,
@@ -106,6 +120,9 @@
   },
   "pipez": {
     "pipe": true
+  },
+  "twilightforest": {
+    "quest_ram_wool": true
   },
   "waystones": {
     "waystone": true

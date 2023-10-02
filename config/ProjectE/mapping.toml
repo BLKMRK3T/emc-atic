@@ -213,6 +213,34 @@
 		#ProjectE-Integration Recipe Mapper for Create Crushing Mapper. Required Mods: [create]
 		enabled = true
 
+	[CraftingMapper.PneumaticCraftExplosionCraftingMapper]
+		#ProjectE-Integration Recipe Mapper for Pneumatic Craft Explosion Crafting Mapper. Required Mods: [pneumaticcraft] NOTE: Disabled by default because this mapper ignore loss rate.
+		enabled = false
+
+	[CraftingMapper.PneumaticCraftAmadronOfferMapper]
+		#ProjectE-Integration Recipe Mapper for Pneumatic Craft Amadron Offer Mapper. Required Mods: [pneumaticcraft]
+		enabled = true
+
+	[CraftingMapper.PneumaticCraftPressureChamberMapper]
+		#ProjectE-Integration Recipe Mapper for Pneumatic Craft Pressure Chamber Mapper. Required Mods: [pneumaticcraft]
+		enabled = true
+
+	[CraftingMapper.PneumaticCraftRefineryMapper]
+		#ProjectE-Integration Recipe Mapper for Pneumatic Craft Refinery Mapper. Required Mods: [pneumaticcraft]
+		enabled = true
+
+	[CraftingMapper.PneumaticCraftHeatFrameCoolingMapper]
+		#ProjectE-Integration Recipe Mapper for Pneumatic Craft Heat Frame Cooling Mapper. Required Mods: [pneumaticcraft]
+		enabled = true
+
+	[CraftingMapper.PneumaticCraftThermopneumaticProcessingPlantMapper]
+		#ProjectE-Integration Recipe Mapper for Pneumatic Craft Thermopneumatic Processing Plant Mapper. Required Mods: [pneumaticcraft]
+		enabled = true
+
+	[CraftingMapper.PneumaticCraftAssemblyMapper]
+		#ProjectE-Integration Recipe Mapper for Pneumatic Craft Assembly Mapper. Required Mods: [pneumaticcraft]
+		enabled = true
+
 [enabledMappers]
 	#Set EMC=0 for everything in the forge:raw_materials tag
 	RawOresBlacklistMapper = true

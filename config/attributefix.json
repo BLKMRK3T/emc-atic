@@ -44,6 +44,17 @@
         "value": 2048
       }
     },
+    "witherstormmod:evolution_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "apotheosis:arrow_velocity": {
       "enabled": false,
       "min": {
@@ -53,6 +64,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "doggytalents:generic.crit_bonus": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "forge:nametag_distance": {
@@ -97,6 +119,17 @@
       "max": {
         "default": 8,
         "value": 8
+      }
+    },
+    "witherstormmod:target_stationary_flying_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2,
+        "value": 2
       }
     },
     "minecraft:generic.attack_speed": {
@@ -154,6 +187,17 @@
         "value": 1024
       }
     },
+    "witherstormmod:slow_flying_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2,
+        "value": 2
+      }
+    },
     "minecraft:generic.armor": {
       "enabled": true,
       "min": {
@@ -163,6 +207,17 @@
       "max": {
         "default": 200,
         "value": 1000000
+      }
+    },
+    "doggytalents:generic.jump_power": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "apotheosis:crit_damage": {
@@ -196,6 +251,17 @@
       "max": {
         "default": 34,
         "value": 34
+      }
+    },
+    "witherstormmod:hunchback_follow_range": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "apotheosis:armor_pierce": {
@@ -427,6 +493,17 @@
       "max": {
         "default": 100,
         "value": 1000000
+      }
+    },
+    "doggytalents:generic.crit_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     }
   }

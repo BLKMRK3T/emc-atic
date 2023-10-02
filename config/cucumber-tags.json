@@ -25,7 +25,7 @@
   "forge:ingots/platinum": "null",
   "forge:dusts/sulfur": "mekanism:dust_sulfur",
   "forge:ingots/lead": "mekanism:ingot_lead",
-  "forge:ingots/graphite": "null",
+  "forge:ingots/graphite": "bigreactors:graphite_ingot",
   "forge:ingots/uranium": "mekanism:ingot_uranium",
   "forge:ingots/nickel": "null"
 }

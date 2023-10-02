@@ -1,6 +1,6 @@
 /config.json
 /.curseclient
-/.minecraftinstance.json
+/minecraftinstance.json
 /logs/
 /saves/
 /schematics/
@@ -13,3 +13,4 @@
 /crash-reports/
 /downloads/
 /local/ftbchunks/data/
+/.qmenu_opened.marker
