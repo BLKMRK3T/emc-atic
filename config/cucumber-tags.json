@@ -17,7 +17,7 @@
   "forge:silicon": "refinedstorage:silicon",
   "forge:gems/apatite": "null",
   "forge:ingots/brass": "create:brass_ingot",
-  "forge:ingots/silver": "null",
+  "forge:ingots/silver": "occultism:silver_ingot",
   "forge:dusts/saltpeter": "null",
   "forge:ingots/steel": "mekanism:ingot_steel",
   "forge:ingots/titanium": "null",

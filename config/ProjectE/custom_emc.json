@@ -1,4 +1,12 @@
 {
-  "entries": [],
-  "__comment": "Use the in-game commands to edit this file"
+  "entries": [
+    {
+      "item": "mysticalagriculture:netherite_essence",
+      "emc": 6268
+    },
+    {
+      "item": "minecraft:netherite_ingot",
+      "emc": 50148
+    }
+  ]
 }

@@ -49,6 +49,9 @@
     "mob_spawner": true,
     "redstone": true
   },
+  "tombstone": {
+    "graves": true
+  },
   "endertanks": {
     "hud.basic": true,
     "hud": true,
@@ -123,6 +126,12 @@
   },
   "twilightforest": {
     "quest_ram_wool": true
+  },
+  "reliquary": {
+    "pedestal": true,
+    "altar": true,
+    "mortar": true,
+    "cauldron": true
   },
   "waystones": {
     "waystone": true
