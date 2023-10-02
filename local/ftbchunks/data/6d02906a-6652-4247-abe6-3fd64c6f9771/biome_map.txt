@@ -1,0 +1,9 @@
+#34C byg:baobab_savanna
+#41B byg:basalt_barrera
+#556 minecraft:beach
+#4F1 minecraft:ocean
+#6DB byg:orchard
+#3DC minecraft:plains
+#5FF minecraft:river
+#67B minecraft:savanna
+#774 minecraft:sunflower_plains
