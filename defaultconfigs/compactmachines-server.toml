@@ -9,7 +9,7 @@
 	breakHandling = "UNBREAKABLE"
 	#The Y-dimension to spawn machine floors at.
 	#Range: 10 ~ 200
-	floor = 40
+	floor = 68
 	#Specify if we want to damage player's that managed to escape the boundries
 	#default: false
 	allowOutside = false
