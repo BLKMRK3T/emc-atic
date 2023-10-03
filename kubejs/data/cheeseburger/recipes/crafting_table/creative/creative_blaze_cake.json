@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "212",
+    "121",
+    "212"
+  ],
+  "key": {
+    "1": {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    "2": {
+      "item": "create:blaze_cake"
+    }
+  },
+  "result": {
+    "item": "create:creative_blaze_cake"
+  }
+}

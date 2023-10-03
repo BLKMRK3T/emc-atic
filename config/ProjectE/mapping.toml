@@ -241,6 +241,62 @@
 		#ProjectE-Integration Recipe Mapper for Pneumatic Craft Assembly Mapper. Required Mods: [pneumaticcraft]
 		enabled = true
 
+	[CraftingMapper.SomtingThermalChillerMapper]
+		#ProjectE-Integration Recipe Mapper for Somting Thermal Chiller Mapper. Required Mods: [thermal]
+		enabled = true
+
+	[CraftingMapper.SomtingThermalFurnaceMapper]
+		#ProjectE-Integration Recipe Mapper for Somting Thermal Furnace Mapper. Required Mods: [thermal]
+		enabled = true
+
+	[CraftingMapper.SomtingThermalSmelterMapper]
+		#ProjectE-Integration Recipe Mapper for Somting Thermal Smelter Mapper. Required Mods: [thermal]
+		enabled = true
+
+	[CraftingMapper.SomtingThermalPressMapper]
+		#ProjectE-Integration Recipe Mapper for Somting Thermal Press Mapper. Required Mods: [thermal]
+		enabled = true
+
+	[CraftingMapper.SomtingThermalRefineryMapper]
+		#ProjectE-Integration Recipe Mapper for Somting Thermal Refinery Mapper. Required Mods: [thermal]
+		enabled = true
+
+	[CraftingMapper.SomtingThermalCentrifugeMapper]
+		#ProjectE-Integration Recipe Mapper for Somting Thermal Centrifuge Mapper. Required Mods: [thermal]
+		enabled = true
+
+	[CraftingMapper.SomtingThermalInsolatorMapper]
+		#ProjectE-Integration Recipe Mapper for Somting Thermal Insolator Mapper. Required Mods: [thermal]
+		enabled = true
+
+	[CraftingMapper.SomtingThermalBrewerMapper]
+		#ProjectE-Integration Recipe Mapper for Somting Thermal Brewer Mapper. Required Mods: [thermal]
+		enabled = true
+
+	[CraftingMapper.SomtingThermalSmelterRecycleMapper]
+		#ProjectE-Integration Recipe Mapper for Somting Thermal Smelter Recycle Mapper. Required Mods: [thermal]
+		enabled = true
+
+	[CraftingMapper.SomtingThermalSawmillMapper]
+		#ProjectE-Integration Recipe Mapper for Somting Thermal Sawmill Mapper. Required Mods: [thermal]
+		enabled = true
+
+	[CraftingMapper.SomtingThermalBottlerMapper]
+		#ProjectE-Integration Recipe Mapper for Somting Thermal Bottler Mapper. Required Mods: [thermal]
+		enabled = true
+
+	[CraftingMapper.SomtingThermalCrucibleMapper]
+		#ProjectE-Integration Recipe Mapper for Somting Thermal Crucible Mapper. Required Mods: [thermal]
+		enabled = true
+
+	[CraftingMapper.SomtingThermalPyrolyzerMapper]
+		#ProjectE-Integration Recipe Mapper for Somting Thermal Pyrolyzer Mapper. Required Mods: [thermal]
+		enabled = true
+
+	[CraftingMapper.SomtingThermalPulverizerMapper]
+		#ProjectE-Integration Recipe Mapper for Somting Thermal Pulverizer Mapper. Required Mods: [thermal]
+		enabled = true
+
 [enabledMappers]
 	#Set EMC=0 for everything in the forge:raw_materials tag
 	RawOresBlacklistMapper = true
