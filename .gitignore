@@ -14,3 +14,5 @@
 /downloads/
 /local/ftbchunks/data/
 /.qmenu_opened.marker
+/config/jei/world/
+/config.bak.json

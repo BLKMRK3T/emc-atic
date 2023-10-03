@@ -23,8 +23,8 @@
 * 
 * 
 * "ancient" = insanium
-  "mythic" = awakened supremium
-  "epic" = supremium
-  "rare" = imperium
-  "uncommon" = tertium
+* "mythic" = awakened supremium
+* "epic" = supremium
+* "rare" = imperium
+* "uncommon" = tertium
 * "common" = prudentium
