@@ -16,3 +16,5 @@
 /.qmenu_opened.marker
 /config/jei/world/
 /config.bak.json
+/servers.dat
+/servers.dat_old
