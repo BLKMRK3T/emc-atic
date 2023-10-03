@@ -1,0 +1,32 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "1": {
+      "tag": "forge:obsidian"
+    },
+    "2": {
+      "tag": "forge:storage_blocks/netherite"
+    },
+    "3": {
+      "tag": "forge:gems/diamond"
+    },
+    "4": {
+      "item": "projecte:philosophers_stone"
+    },
+    "5": {
+      "item": "projecte:alchemical_chest"
+    }
+  },
+  "pattern": [
+    "11211",
+    "13531",
+    "24342",
+    "13531",
+    "11211"
+  ],
+  "result": {
+    "count": 1,
+    "item": "projecte:condenser_mk1"
+  }
+}
