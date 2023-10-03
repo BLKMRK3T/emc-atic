@@ -1,0 +1,12 @@
+{
+  "name": "singularity.extendedcrafting.tertium.essence",
+  "colors": [
+    "DF5500",
+    "000000"
+  ],
+  "ingredient": {
+    "item": "mysticalagriculture:tertium_essence"
+  },
+  "materialCount": 1000,
+  "inUltimateSingularity": false
+}

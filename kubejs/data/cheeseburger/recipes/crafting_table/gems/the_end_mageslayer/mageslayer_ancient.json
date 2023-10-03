@@ -10,11 +10,11 @@
       "item": "minecraft:acacia_planks"
     },
     "2": {
-      "item": "mysticalagriculture:imperium_gemstone"
+      "item": "mysticalagradditions:insanium_gemstone"
     }
   },
   "result": {
     "item": "apotheosis:gem",
-    "nbt": "{gem:\"apotheosis:core/ballast\",rarity:\"rare\"}"
+    "nbt": "{gem:\"apotheosis:the_end/mageslayer\",rarity:\"ancient\"}"
   }
 }

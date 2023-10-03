@@ -10,11 +10,11 @@
       "item": "minecraft:acacia_planks"
     },
     "2": {
-      "item": "mysticalagradditions:insanium_gemstone"
+      "item": "mysticalagriculture:prudentium_gemstone"
     }
   },
   "result": {
     "item": "apotheosis:gem",
-    "nbt": "{gem:\"apotheosis:core/ballast\",rarity:\"ancient\"}"
+    "nbt": "{gem:\"apotheosis:core/brawlers\",rarity:\"common\"}"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "name": "singularity.extendedcrafting.inferium.essence",
+  "colors": [
+    "738C00",
+    "000000"
+  ],
+  "ingredient": {
+    "item": "mysticalagriculture:inferium_essence"
+  },
+  "materialCount": 1000,
+  "inUltimateSingularity": false
+}

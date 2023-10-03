@@ -10,11 +10,11 @@
       "item": "minecraft:acacia_planks"
     },
     "2": {
-      "item": "mysticalagriculture:supremium_gemstone"
+      "item": "mysticalagriculture:awakened_supremium_gemstone"
     }
   },
   "result": {
     "item": "apotheosis:gem",
-    "nbt": "{gem:\"apotheosis:core/ballast\",rarity:\"epic\"}"
+    "nbt": "{gem:\"apotheosis:core/slipstream\",rarity:\"mythic\"}"
   }
 }

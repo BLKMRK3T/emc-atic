@@ -1,0 +1,12 @@
+{
+  "name": "singularity.extendedcrafting.awakened.supremium.essence",
+  "colors": [
+    "C25400",
+    "000000"
+  ],
+  "ingredient": {
+    "item": "mysticalagriculture:awakened_supremium_essence"
+  },
+  "materialCount": 1000,
+  "inUltimateSingularity": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "singularity.extendedcrafting.imperium.essence",
+  "colors": [
+    "007DD8",
+    "000000"
+  ],
+  "ingredient": {
+    "item": "mysticalagriculture:imperium_essence"
+  },
+  "materialCount": 1000,
+  "inUltimateSingularity": false
+}

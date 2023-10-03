@@ -1,0 +1,12 @@
+{
+  "name": "singularity.extendedcrafting.soul.dust",
+  "colors": [
+    "694531",
+    "000000"
+  ],
+  "ingredient": {
+    "item": "mysticalagriculture:soul_dust"
+  },
+  "materialCount": 1000,
+  "inUltimateSingularity": false
+}

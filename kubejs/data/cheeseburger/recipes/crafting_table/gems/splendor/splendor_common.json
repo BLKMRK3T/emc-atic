@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "121",
+    "111"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:acacia_planks"
+    },
+    "2": {
+      "item": "mysticalagriculture:prudentium_gemstone"
+    }
+  },
+  "result": {
+    "item": "apotheosis:gem",
+    "nbt": "{gem:\"apotheosis:core/splendor\",rarity:\"common\"}"
+  }
+}
