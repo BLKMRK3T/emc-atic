@@ -1,0 +1,37 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "1": {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    "2": {
+      "item": "mysticalagriculture:awakened_supremium_gemstone_block"
+    },
+    "3": {
+      "item": "createaddition:electric_motor"
+    },
+    "4": {
+      "item": "mekanism:alloy_atomic"
+    },
+    "5": {
+      "item": "create:shaft"
+    },
+    "6": {
+      "item": "extendedcrafting:ultimate_singularity"
+    }
+  },
+  "pattern": [
+    " 1222221 ",
+    " 2233322 ",
+    " 2344432 ",
+    "555565555",
+    " 2344432 ",
+    " 2233322 ",
+    " 1222221 "
+  ],
+  "result": {
+    "count": 1,
+    "item": "create:creative_motor"
+  }
+}
