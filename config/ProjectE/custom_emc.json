@@ -7,6 +7,14 @@
     {
       "item": "minecraft:netherite_ingot",
       "emc": 50148
+    },
+    {
+      "item": "projecte:transmutation_table",
+      "emc": 131072
+    },
+    {
+      "item": "projecte:transmutation_tablet",
+      "emc": 262144
     }
   ]
 }
