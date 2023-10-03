@@ -1,0 +1,69 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "1": {
+      "type": "forge:nbt",
+      "item": "extendedcrafting:singularity",
+      "nbt": {
+        "Id": "extendedcrafting:soul_dust"
+      }
+    },
+    "2": {
+      "type": "forge:nbt",
+      "item": "extendedcrafting:singularity",
+      "nbt": {
+        "Id": "extendedcrafting:inferium_essence"
+      }
+    },
+    "3": {
+      "type": "forge:nbt",
+      "item": "extendedcrafting:singularity",
+      "nbt": {
+        "Id": "extendedcrafting:prudentium_essence"
+      }
+    },
+    "4": {
+      "type": "forge:nbt",
+      "item": "extendedcrafting:singularity",
+      "nbt": {
+        "Id": "extendedcrafting:tertium_essence"
+      }
+    },
+    "5": {
+      "type": "forge:nbt",
+      "item": "extendedcrafting:singularity",
+      "nbt": {
+        "Id": "extendedcrafting:imperium_essence"
+      }
+    },
+    "6": {
+      "type": "forge:nbt",
+      "item": "extendedcrafting:singularity",
+      "nbt": {
+        "Id": "extendedcrafting:supremium_essence"
+      }
+    },
+    "7": {
+      "type": "forge:nbt",
+      "item": "extendedcrafting:singularity",
+      "nbt": {
+        "Id": "extendedcrafting:awakened_supremium_essence"
+      }
+    },
+    "8": {
+      "type": "forge:nbt",
+      "item": "extendedcrafting:singularity",
+      "nbt": {
+        "Id": "extendedcrafting:insanium_essence"
+      }
+    }
+  },
+  "pattern": [
+    "12345678"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mysticalagradditions:creative_essence"
+  }
+}

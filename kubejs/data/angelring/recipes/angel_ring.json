@@ -1,0 +1,42 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": false,
+    "key": {
+        "1": {
+            "item": "reliquary:phoenix_down"
+        },
+        "2": {
+            "item": "reliquary:angelic_feather"
+        },
+        "3": {
+            "item": "mysticalagriculture:awakened_supremium_essence"
+        },
+        "4": {
+            "item": "botania:ender_air_bottle"
+        },
+        "5": {
+            "item": "mekanism:alloy_atomic"
+        },
+        "6": {
+            "item": "botania:rune_air"
+        },
+        "7": {
+            "item": "angelring:resonant_angel_ring"
+        },
+        "8": {
+            "item": "mekanism:jetpack_armored"
+        }
+    },
+    "pattern": [
+        "1     1",
+        " 23432 ",
+        " 35653 ",
+        " 46764 ",
+        " 35853 ",
+        "  343  "
+    ],
+    "result": {
+        "count": 1,
+        "item": "angelring:angel_ring"
+    }
+}

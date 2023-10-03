@@ -1,0 +1,110 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "start"
+	group: ""
+	id: "0CCF395D8DBC9E76"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "228A1791CAC44A28"
+			subtitle: "Welcome to CheeseBurger"
+			tasks: [{
+				id: "19BBD361CBB32FAE"
+				title: "Welcome"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "67532BD78F6490AE"
+			subtitle: "Helps find specific biomes"
+			tasks: [{
+				id: "1B9E857E966B1DD0"
+				item: {
+					Count: 1b
+					id: "naturescompass:naturescompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			id: "6D3B488150CB9DF8"
+			rewards: [{
+				id: "5655EA11B8DF4D1A"
+				item: {
+					Count: 1b
+					id: "supplementaries:wrench"
+					tag: {
+						Damage: 0
+						Unbreakable: 1b
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Craft other mod wrenchs/crescents with this to make them one."
+			tasks: [{
+				id: "0AF61C4E7A19E33C"
+				item: "minecraft:stone"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			id: "7BFAA414DEA6D63F"
+			rewards: [{
+				id: "57C124881A88AF8A"
+				item: "minecraft:cooked_porkchop"
+				type: "item"
+			}]
+			subtitle: "wood"
+			tasks: [{
+				count: 16L
+				id: "6BB8544B9956A98E"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				title: "Any #minecraft:logs"
+				type: "item"
+			}]
+			title: "The Start of Everything"
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			id: "37DE04F7B77727D4"
+			rewards: [{
+				id: "3711E05E14D9F38D"
+				item: "quark:apple_crate"
+				type: "item"
+			}]
+			subtitle: "Vein Miner is in this modpack hold `"
+			tasks: [{
+				id: "549AE40FB1B9DECB"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:tools/pickaxes"
+					}
+				}
+				title: "Any #forge:tools/pickaxes"
+				type: "item"
+			}]
+			title: "Vein Miner"
+			x: 4.0d
+			y: -1.5d
+		}
+	]
+	title: "Start"
+}
