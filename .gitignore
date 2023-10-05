@@ -18,3 +18,7 @@
 /config.bak.json
 /servers.dat
 /servers.dat_old
+/config/byg/backups/
+/config/jei/recipe-category-sort-order.ini
+/config/oculus.properties
+/config/powah.json5
