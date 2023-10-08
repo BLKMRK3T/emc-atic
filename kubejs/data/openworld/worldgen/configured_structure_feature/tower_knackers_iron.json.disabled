@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "openworld:knackers/tower_knackers_iron",
+    "size": 1
+  },
+  "biomes": "#minecraft:is_overworld",
+  "adapt_noise": false,
+  "spawn_overrides": {}
+}

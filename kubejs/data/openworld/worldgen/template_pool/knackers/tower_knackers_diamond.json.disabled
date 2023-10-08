@@ -1,0 +1,15 @@
+{
+  "name": "openworld:tower_knackers_diamond",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "openworld:tower_knackers_diamond",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

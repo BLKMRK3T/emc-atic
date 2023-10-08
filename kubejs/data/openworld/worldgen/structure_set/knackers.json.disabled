@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "openworld:tower_knackers_iron",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 10,
+    "separation": 5,
+    "salt": 1263765609
+  }
+}
