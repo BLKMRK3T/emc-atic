@@ -9,7 +9,7 @@
 	quests: [
 		{
 			id: "228A1791CAC44A28"
-			subtitle: "Welcome to CheeseBurger"
+			subtitle: "Welcome to Project OpenWorld"
 			tasks: [{
 				id: "19BBD361CBB32FAE"
 				title: "Welcome"

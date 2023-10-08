@@ -13,7 +13,7 @@
 	#Pets eat rarer items (default:false)
 	petsEatWholeItems = false
 	#Turn off all dungeons (default:false)
-	disableAllDungeons = false
+	disableAllDungeons = true
 	#Turn off Nether dungeons (default:false)
 	disableNetherDungeons = false
 	#Turn off Space dungeons (default:false)
