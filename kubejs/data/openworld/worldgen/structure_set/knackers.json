@@ -1,0 +1,30 @@
+{
+  "structures": [
+    {
+      "structure": "openworld:tower_knackers_iron",
+      "weight": 10
+    },
+    {
+      "structure": "openworld:tower_knackers_gold",
+      "weight": 10
+    },
+    {
+      "structure": "openworld:tower_knackers_reign",
+      "weight": 10
+    },
+    {
+      "structure": "openworld:tower_knackers_diamond",
+      "weight": 10
+    },
+    {
+      "structure": "openworld:tower_knackers_netherite",
+      "weight": 10
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1477181353,
+    "spacing": 10,
+    "separation": 5
+  }
+}

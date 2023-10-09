@@ -6,8 +6,8 @@
       "weight": 1,
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "openworld:tower_knackers_iron",
         "projection": "rigid",
+        "location": "openworld:tower_knackers_iron",
         "processors": "minecraft:empty"
       }
     }
