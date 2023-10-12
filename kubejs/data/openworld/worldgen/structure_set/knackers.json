@@ -6,25 +6,25 @@
     },
     {
       "structure": "openworld:tower_knackers_gold",
-      "weight": 10
+      "weight": 8
     },
     {
       "structure": "openworld:tower_knackers_reign",
-      "weight": 10
+      "weight": 6
     },
     {
       "structure": "openworld:tower_knackers_diamond",
-      "weight": 10
+      "weight": 4
     },
     {
       "structure": "openworld:tower_knackers_netherite",
-      "weight": 10
+      "weight": 2
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
     "salt": 1477181353,
-    "spacing": 10,
+    "spacing": 20,
     "separation": 5
   }
 }
