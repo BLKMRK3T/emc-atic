@@ -16,10 +16,21 @@
 				type: "checkmark"
 			}]
 			x: 0.0d
-			y: -3.0d
+			y: -2.0d
 		}
 		{
 			id: "67532BD78F6490AE"
+			rewards: [{
+				id: "5E791603CF708D52"
+				item: {
+					Count: 1b
+					id: "create_sa:slime_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
 			subtitle: "Helps find specific biomes"
 			tasks: [{
 				id: "1B9E857E966B1DD0"
@@ -59,6 +70,7 @@
 		{
 			id: "7BFAA414DEA6D63F"
 			rewards: [{
+				count: 4
 				id: "57C124881A88AF8A"
 				item: "minecraft:cooked_porkchop"
 				type: "item"
@@ -104,6 +116,410 @@
 			title: "Vein Miner"
 			x: 4.0d
 			y: -1.5d
+		}
+		{
+			dependencies: ["04C5541E0DC376AE"]
+			id: "5BECC96F87BCD588"
+			tasks: [{
+				id: "0514FA32ADDDD5F9"
+				item: {
+					Count: 1b
+					id: "minecraft:wooden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5BECC96F87BCD588"]
+			id: "74D70C81B3C4FE0E"
+			tasks: [{
+				id: "6D349479C4D90BD2"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["74D70C81B3C4FE0E"]
+			id: "00FE1FA73D4FDC9A"
+			tasks: [{
+				id: "229DA33CEF75FF9B"
+				item: {
+					Count: 1b
+					id: "minecraft:stone_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4C0726F88234F626"]
+			id: "2A8549992B16B589"
+			tasks: [{
+				id: "1435E892485A394C"
+				item: {
+					Count: 1b
+					id: "minecraft:iron_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["00FE1FA73D4FDC9A"]
+			id: "4C0726F88234F626"
+			tasks: [{
+				id: "3A2E6D866F129C1A"
+				item: "minecraft:raw_iron"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2A8549992B16B589"]
+			id: "0800D6BD35214172"
+			tasks: [{
+				id: "6D784445D51BF217"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["0800D6BD35214172"]
+			id: "06193E399F544CD2"
+			tasks: [{
+				id: "021637EC031146C2"
+				item: {
+					Count: 1b
+					id: "minecraft:diamond_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["0800D6BD35214172"]
+			id: "6048B456EEFB3D7F"
+			tasks: [
+				{
+					id: "7082A4CE68E151F9"
+					item: "minecraft:enchanting_table"
+					type: "item"
+				}
+				{
+					count: 15L
+					id: "5D04885AF3B82E73"
+					item: "minecraft:bookshelf"
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 6.5d
+		}
+		{
+			dependencies: [
+				"6048B456EEFB3D7F"
+				"06193E399F544CD2"
+			]
+			id: "1E0B3DE353D3E2C3"
+			tasks: [{
+				id: "23E6F8207B18F5DD"
+				item: "minecraft:obsidian"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["228A1791CAC44A28"]
+			id: "04C5541E0DC376AE"
+			tasks: [{
+				count: 16L
+				id: "7A02FB7BFDF61991"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				title: "Any #minecraft:logs"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1E0B3DE353D3E2C3"]
+			id: "2FD6A67FDDC1086E"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: "minecraft:netherrack"
+				id: "06AE3EA4BE027BAB"
+				title: "The Nether"
+				type: "dimension"
+			}]
+			x: 3.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["1C72C567BF8F7D3B"]
+			id: "3B30B9E2C692FB08"
+			tasks: [
+				{
+					id: "534D41F2618C74E8"
+					item: "minecraft:blaze_rod"
+					type: "item"
+				}
+				{
+					id: "60A4AC36B9D431CA"
+					item: "minecraft:ghast_tear"
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["2FD6A67FDDC1086E"]
+			id: "1C72C567BF8F7D3B"
+			subtitle: "Probably not what your expecting though."
+			tasks: [{
+				icon: "minecraft:nether_bricks"
+				id: "3099C8ABDF85CC13"
+				structure: "betterfortresses:fortress"
+				title: "Nether Fortress"
+				type: "structure"
+			}]
+			x: 5.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["1C72C567BF8F7D3B"]
+			id: "23EFD92F200B79C5"
+			rewards: [{
+				id: "3C3590B3D8B56F95"
+				item: "minecraft:wither_skeleton_skull"
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "7B08370C73F9D1D9"
+					item: "minecraft:wither_skeleton_skull"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "09DCB3F5CD2D64E0"
+					item: "minecraft:soul_sand"
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["1C72C567BF8F7D3B"]
+			id: "488F7379732807F1"
+			tasks: [
+				{
+					id: "29CA092F57741275"
+					item: "minecraft:glowstone"
+					type: "item"
+				}
+				{
+					id: "3BB99E152AB563A2"
+					item: "minecraft:quartz_block"
+					type: "item"
+				}
+			]
+			title: "Nether Resources"
+			x: 7.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["51CF966EDF7D6F76"]
+			id: "5A109AC8320D976F"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "13D8E13E7DA66C45"
+				title: "The End"
+				type: "dimension"
+			}]
+			x: -2.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["0800D6BD35214172"]
+			id: "51CF966EDF7D6F76"
+			tasks: [
+				{
+					id: "2062D23C7DC3D5FE"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D847295769356B0"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5BE7DBB67E6F5C5E"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2BFBE8B4F5681A6F"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "135129763B6F980C"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["5A109AC8320D976F"]
+			id: "0B872C74323A51B4"
+			tasks: [
+				{
+					entity: "minecraft:ender_dragon"
+					id: "0FB68ADF3211D2ED"
+					title: "Kill the Queen (Ender Dragon)"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "3C6C60B8349D2869"
+					item: "minecraft:dragon_egg"
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["5A109AC8320D976F"]
+			id: "007963DB6F77C0AC"
+			tasks: [{
+				icon: "minecraft:purpur_block"
+				id: "71652F4226DEB322"
+				structure: "minecraft:end_city"
+				title: "Find a End City"
+				type: "structure"
+			}]
+			x: -4.0d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"06193E399F544CD2"
+				"6DBFD9EA4460E091"
+			]
+			id: "168BDB1772BAE0F0"
+			tasks: [{
+				id: "1F48CA4E75EE09C2"
+				item: {
+					Count: 1b
+					id: "minecraft:netherite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2FD6A67FDDC1086E"]
+			id: "6DBFD9EA4460E091"
+			rewards: [{
+				id: "3F6F5C4B6428C28D"
+				item: "minecraft:netherite_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "742A0D09C4352EAE"
+				item: "minecraft:ancient_debris"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["007963DB6F77C0AC"]
+			id: "7EEC7EFAFA2B3DED"
+			tasks: [{
+				id: "28DA95D4EDBD9A96"
+				item: {
+					Count: 1b
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 9.0d
 		}
 	]
 	title: "Start"

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "hexerei:warhammer"
+  },
+  "addition": {
+    "item": "projecte:dark_matter_block"
+  },
+  "result": {
+    "item": "projecte:dm_hammer"
+  }
+}

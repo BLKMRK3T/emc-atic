@@ -1,0 +1,143 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "structures"
+	group: ""
+	id: "15649FFBA142CD15"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5E91719E068A1A96"
+			subtitle: "Go find a giant chicken"
+			tasks: [{
+				icon: "minecraft:feather"
+				id: "4E81827F468DE2D8"
+				structure: "openworld:chimkin"
+				title: "GIANT Chimkin"
+				type: "structure"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			id: "5372D12274DD3365"
+			invisible: true
+			subtitle: "A oddly familiar shape O_o, but its a good source of materials if your running low."
+			tasks: [{
+				icon: "minecraft:iron_block"
+				id: "0F450BE2645EE105"
+				structure: "openworld:tower_knackers_iron"
+				title: "Its a GIANT PE... Knacker"
+				type: "structure"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			id: "538297A1B237DF11"
+			invisible: true
+			subtitle: "A oddly familiar shape O_o, but its a good source of materials if your running low."
+			tasks: [{
+				icon: "minecraft:diamond_block"
+				id: "0E54CFF5C4DA020E"
+				structure: "openworld:tower_knackers_diamond"
+				title: "Its a GIANT PE... Knacker"
+				type: "structure"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "1F420D3C31C43BF7"
+			invisible: true
+			subtitle: "A oddly familiar shape O_o, but its a good source of materials if your running low."
+			tasks: [{
+				icon: "minecraft:gold_block"
+				id: "2BB572EA3BF853BC"
+				structure: "openworld:tower_knackers_gold"
+				title: "Its a GIANT PE... Knacker"
+				type: "structure"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "33F2A5C946F7898F"
+			invisible: true
+			subtitle: "A oddly familiar shape O_o, but its a good source of materials if your running low."
+			tasks: [{
+				icon: "minecraft:amethyst_block"
+				id: "56D82A3218EBC7EB"
+				structure: "openworld:tower_knackers_reign"
+				title: "Its a GIANT PE... Knacker"
+				type: "structure"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			id: "785C844F3C632EFF"
+			invisible: true
+			subtitle: "A oddly familiar shape O_o, but its a good source of materials if your running low."
+			tasks: [{
+				icon: "minecraft:netherite_block"
+				id: "628B2949886C5E06"
+				structure: "openworld:tower_knackers_netherite"
+				title: "Its a GIANT PE... Knacker"
+				type: "structure"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			id: "0968E5CC66F84B53"
+			tasks: [{
+				icon: "pneumaticcraft:plastic_brick_yellow"
+				id: "0743B9F0C3B33919"
+				structure: "openworld:yellow_castle"
+				title: "Yellow Castle"
+				type: "structure"
+			}]
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			id: "3003A234F75CE2FA"
+			tasks: [{
+				icon: "pneumaticcraft:plastic_brick_red"
+				id: "2B1844C3976FF2E4"
+				structure: "openworld:red_castle"
+				title: "Red Castle"
+				type: "structure"
+			}]
+			x: -4.0d
+			y: -6.0d
+		}
+		{
+			id: "09404E239CA1E086"
+			tasks: [{
+				icon: "pneumaticcraft:plastic_brick_lime"
+				id: "05FCB58D187CE566"
+				structure: "openworld:green_castle"
+				title: "Green Castle"
+				type: "structure"
+			}]
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			id: "465D10887364BCCA"
+			tasks: [{
+				icon: "pneumaticcraft:plastic_brick_blue"
+				id: "113DE913BB7A6EC8"
+				structure: "openworld:blue_castle"
+				title: "Blue Castle"
+				type: "structure"
+			}]
+			x: -1.0d
+			y: -5.0d
+		}
+	]
+	title: "Structures"
+}
