@@ -297,6 +297,14 @@
 		#ProjectE-Integration Recipe Mapper for Somting Thermal Pulverizer Mapper. Required Mods: [thermal]
 		enabled = true
 
+	[CraftingMapper.FarmersDelightCuttingBoardMapper]
+		#ProjectE-Integration Recipe Mapper for Farmers Delight Cutting Board Mapper. Required Mods: [farmersdelight]
+		enabled = true
+
+	[CraftingMapper.FarmersDelightCookingPotMapper]
+		#ProjectE-Integration Recipe Mapper for Farmers Delight Cooking Pot Mapper. Required Mods: [farmersdelight]
+		enabled = true
+
 [enabledMappers]
 	#Set EMC=0 for everything in the forge:raw_materials tag
 	RawOresBlacklistMapper = true
@@ -320,4 +328,6 @@
 	APICustomEMCMapper = true
 	#Loads json files within datapacks (data/<domain>/pe_custom_conversions/*.json) to add values and conversions
 	CustomConversionMapper = true
+	#Adds EMC to DivineRPG
+	DivineRPGMapper = true
 
