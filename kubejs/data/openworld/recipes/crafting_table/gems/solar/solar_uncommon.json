@@ -1,16 +1,18 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "111",
-    "121",
-    "111"
+    "AAA",
+    "BBB",
+    "AAA"
   ],
   "key": {
-    "1": {
-      "item": "minecraft:acacia_planks"
+    "A": {
+      "item": "mysticalagriculture:prudentium_gemstone"
     },
-    "2": {
-      "item": "mysticalagriculture:tertium_gemstone"
+    "B": {
+      "type": "forge:nbt",
+      "item": "apotheosis:gem",
+      "nbt": "{gem:\"apotheosis:core/solar\",rarity:\"common\"}"
     }
   },
   "result": {

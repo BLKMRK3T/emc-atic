@@ -1,16 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "111",
-    "121",
-    "111"
+    "ABC",
+    "BBB",
+    "CBA"
   ],
   "key": {
-    "1": {
-      "item": "minecraft:acacia_planks"
+    "A": {
+      "item": "minecraft:gold_block"
     },
-    "2": {
-      "item": "mysticalagriculture:imperium_gemstone"
+    "B": {
+      "item": "mysticalagriculture:tertium_gemstone"
+    },
+    "C": {
+      "item": "minecraft:diamond_block"
     }
   },
   "result": {
