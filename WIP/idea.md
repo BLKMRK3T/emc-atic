@@ -6,3 +6,5 @@
 * Default Configs
 * apotheosis gem recipes
 * check loot table for sky nipa structure
+* fix angel ring recipes, angel ring is used to make one of the thermal rings not good
+* 
