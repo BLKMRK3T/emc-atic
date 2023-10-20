@@ -1,0 +1,146 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "creative_mode"
+	group: ""
+	id: "746BF0E3DFD2EDAE"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["761C023F9E896587"]
+			id: "40219AEB636712D2"
+			tasks: [{
+				id: "2E7ACF1857AF6269"
+				item: "mysticalagradditions:creative_essence"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			id: "585D1B057877E3D1"
+			tasks: [{
+				id: "22BA4A0DDBB3E423"
+				item: "create:creative_motor"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			id: "0FB3E60F9E955A55"
+			tasks: [{
+				id: "20A81CDF907FE3C4"
+				item: "create:creative_blaze_cake"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "143E6349DA147191"
+			tasks: [{
+				id: "43D21EABBA9F34B2"
+				item: "createaddition:creative_energy"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			id: "20F4D7DE539EEDA4"
+			tasks: [{
+				id: "07F0CBD1B1687E8E"
+				item: "mysticalagriculture:creative_soulium_dagger"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			id: "4A28DB6D94D947BB"
+			tasks: [{
+				id: "4693847BB19F8BA1"
+				item: "refinedstorage:creative_controller"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			id: "688D1352B361C41C"
+			tasks: [{
+				id: "3399A99DE98FAF70"
+				item: "create_sa:creative_filling_tank"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			id: "475ECDA67506335B"
+			tasks: [{
+				id: "3E975FBDFBAA1B6C"
+				item: "createchromaticreturn:creative_flour"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			id: "0DA1FA87A08CC689"
+			tasks: [{
+				id: "4D3F4FB58D6D0A66"
+				item: "createchromaticreturn:multiplite_charm"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"6FEE1AD53A6D6533"
+				"5429B6FACB12985A"
+			]
+			id: "761C023F9E896587"
+			tasks: [{
+				id: "18A12FB7F1CDAF41"
+				item: "extendedcrafting:ultimate_singularity"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			id: "6FEE1AD53A6D6533"
+			tasks: [{
+				id: "0426A76C833A2518"
+				item: "extendedcrafting:ultimate_table"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			id: "5429B6FACB12985A"
+			tasks: [
+				{
+					count: 17L
+					id: "19CDEB3392418D82"
+					item: "extendedcrafting:compressor"
+					type: "item"
+				}
+				{
+					count: 17L
+					id: "4DE639D3EF585F2E"
+					item: "extendedcrafting:ultimate_catalyst"
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -2.0d
+		}
+	]
+	title: "Creative Mode"
+}
