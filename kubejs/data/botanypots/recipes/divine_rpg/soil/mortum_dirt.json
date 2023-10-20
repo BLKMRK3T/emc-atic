@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "divine_rpg:mortum_dirt"
+  },
+  "display": {
+    "block": "divine_rpg:mortum_dirt"
+  },
+  "categories": [
+    "mortum"
+  ],
+  "growthModifier": 1
+}

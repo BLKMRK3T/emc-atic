@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "divine_rpg:wildwood_grass"
+  },
+  "display": {
+    "block": "divine_rpg:wildwood_grass"
+  },
+  "categories": [
+    "wildwood"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "divine_rpg:apalachia_dirt"
+  },
+  "display": {
+    "block": "divine_rpg:apalachia_dirt"
+  },
+  "categories": [
+    "apalachia"
+  ],
+  "growthModifier": 1
+}

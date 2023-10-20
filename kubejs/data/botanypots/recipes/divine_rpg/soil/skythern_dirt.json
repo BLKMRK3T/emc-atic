@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "divine_rpg:skythern_dirt"
+  },
+  "display": {
+    "block": "divine_rpg:skythern_dirt"
+  },
+  "categories": [
+    "skythern"
+  ],
+  "growthModifier": 1
+}

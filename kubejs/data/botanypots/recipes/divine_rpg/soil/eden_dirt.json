@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "divine_rpg:eden_dirt"
+  },
+  "display": {
+    "block": "divine_rpg:eden_dirt"
+  },
+  "categories": [
+    "eden"
+  ],
+  "growthModifier": 1
+}

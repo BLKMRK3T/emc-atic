@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "divine_rpg:frozen_grass"
+  },
+  "display": {
+    "block": "divine_rpg:frozen_grass"
+  },
+  "categories": [
+    "frozen"
+  ],
+  "growthModifier": 1
+}
