@@ -8,6 +8,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			description: ["you need to glue the wings :/"]
 			id: "5E91719E068A1A96"
 			subtitle: "Go find a giant chicken"
 			tasks: [{

@@ -131,7 +131,7 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
+			x: -1.0d
 			y: 1.5d
 		}
 		{
@@ -142,8 +142,8 @@
 				item: "minecraft:cobblestone"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 2.5d
+			x: 1.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["74D70C81B3C4FE0E"]
@@ -159,8 +159,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: 3.5d
+			x: 1.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["4C0726F88234F626"]
@@ -176,8 +176,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: 5.5d
+			x: -1.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["00FE1FA73D4FDC9A"]
@@ -187,8 +187,8 @@
 				item: "minecraft:raw_iron"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 4.5d
+			x: -1.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["2A8549992B16B589"]
@@ -198,8 +198,8 @@
 				item: "minecraft:diamond"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 6.5d
+			x: 1.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["0800D6BD35214172"]
@@ -215,8 +215,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: 7.5d
+			x: -1.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["0800D6BD35214172"]
@@ -234,8 +234,8 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: 6.5d
+			x: 2.0d
+			y: 5.0d
 		}
 		{
 			dependencies: [
@@ -249,7 +249,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 7.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["228A1791CAC44A28"]
@@ -280,7 +280,7 @@
 				title: "The Nether"
 				type: "dimension"
 			}]
-			x: 3.5d
+			x: 1.5d
 			y: 9.0d
 		}
 		{
@@ -298,7 +298,7 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
+			x: 5.5d
 			y: 8.0d
 		}
 		{
@@ -312,7 +312,7 @@
 				title: "Nether Fortress"
 				type: "structure"
 			}]
-			x: 5.5d
+			x: 3.5d
 			y: 9.0d
 		}
 		{
@@ -337,7 +337,7 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
+			x: 5.5d
 			y: 9.0d
 		}
 		{
@@ -356,7 +356,7 @@
 				}
 			]
 			title: "Nether Resources"
-			x: 7.5d
+			x: 5.5d
 			y: 10.0d
 		}
 		{
@@ -368,8 +368,8 @@
 				title: "The End"
 				type: "dimension"
 			}]
-			x: -2.0d
-			y: 9.0d
+			x: -2.5d
+			y: 7.5d
 		}
 		{
 			dependencies: ["0800D6BD35214172"]
@@ -431,8 +431,8 @@
 					type: "item"
 				}
 			]
-			x: -2.0d
-			y: 6.5d
+			x: -2.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["5A109AC8320D976F"]
@@ -451,8 +451,8 @@
 					type: "item"
 				}
 			]
-			x: -2.0d
-			y: 11.0d
+			x: -2.5d
+			y: 9.0d
 		}
 		{
 			dependencies: ["5A109AC8320D976F"]
@@ -465,7 +465,7 @@
 				type: "structure"
 			}]
 			x: -4.0d
-			y: 9.0d
+			y: 7.5d
 		}
 		{
 			dependencies: [
@@ -484,8 +484,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: 9.0d
+			x: -1.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["2FD6A67FDDC1086E"]
@@ -501,7 +501,7 @@
 				item: "minecraft:ancient_debris"
 				type: "item"
 			}]
-			x: 1.5d
+			x: -1.0d
 			y: 9.0d
 		}
 		{
@@ -518,8 +518,8 @@
 				}
 				type: "item"
 			}]
-			x: -6.0d
-			y: 9.0d
+			x: -5.5d
+			y: 7.5d
 		}
 	]
 	title: "Start"

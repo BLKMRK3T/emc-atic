@@ -5,6 +5,14 @@
 * Configs
 * Default Configs
 * apotheosis gem recipes
-* check loot table for sky nipa structure
-* fix angel ring recipes, angel ring is used to make one of the thermal rings not good
+* refined storage coloured creative controllers needs recipes
+
+
+* 
+* add diving rpg saplings to botany pots
+* add ocultism saplings to botany pots
+* add hexerie saplings to botany pots
+* forbidden and arcanus saplings to botany pots
+* Add mod mob grinding utils
+* Add better villages 
 * 
