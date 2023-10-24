@@ -1,20 +1,20 @@
 {
   "type": "botanypots:crop",
   "seed": {
-    "item": "divine_rpg:wildwood_sapling"
+    "item": "divinerpg:eden_sapling"
   },
   "categories": [
-    "wildwood"
+    "eden"
   ],
   "growthTicks": 2400,
   "display": {
-    "block": "divine_rpg:wildwood_sapling"
+    "block": "divinerpg:eden_sapling"
   },
   "drops": [
     {
       "chance": 1.00,
       "output": {
-        "item": "divine_rpg:wildwood_log"
+        "item": "divinerpg:eden_log"
       },
       "minRolls": 2,
       "maxRolls": 4
@@ -30,7 +30,7 @@
     {
       "chance": 0.15,
       "output": {
-        "item": "divine_rpg:wildwood_sapling"
+        "item": "divinerpg:eden_sapling"
       }
     }
   ]

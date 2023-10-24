@@ -1,13 +1,13 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "divine_rpg:mortum_grass"
+    "item": "divinerpg:eden_dirt"
   },
   "display": {
-    "block": "divine_rpg:mortum_grass"
+    "block": "divinerpg:eden_dirt"
   },
   "categories": [
-    "mortum"
+    "eden"
   ],
   "growthModifier": 1
 }

@@ -1,13 +1,13 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "divine_rpg:apalachia_dirt"
+    "item": "divinerpg:skythern_grass"
   },
   "display": {
-    "block": "divine_rpg:apalachia_dirt"
+    "block": "divinerpg:skythern_grass"
   },
   "categories": [
-    "apalachia"
+    "skythern"
   ],
   "growthModifier": 1
 }

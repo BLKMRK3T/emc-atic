@@ -1,13 +1,13 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "divine_rpg:eden_grass"
+    "item": "divinerpg:apalachia_dirt"
   },
   "display": {
-    "block": "divine_rpg:eden_grass"
+    "block": "divinerpg:apalachia_dirt"
   },
   "categories": [
-    "eden"
+    "apalachia"
   ],
   "growthModifier": 1
 }

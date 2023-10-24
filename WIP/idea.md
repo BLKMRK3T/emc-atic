@@ -3,5 +3,5 @@
 * ProjectE 9x9
 * Custom EMC Values
 * Configs
-
-* add diving rpg saplings to botany pots (double check later)
+* Custom dungeons need spawners
+* need to work out how to move the witherstorm structure to the end islands orr to a custom dimension or to the botania dimension

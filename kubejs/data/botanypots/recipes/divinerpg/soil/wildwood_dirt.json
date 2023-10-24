@@ -1,13 +1,13 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "divine_rpg:frozen_dirt"
+    "item": "divinerpg:wildwood_dirt"
   },
   "display": {
-    "block": "divine_rpg:frozen_dirt"
+    "block": "divinerpg:wildwood_dirt"
   },
   "categories": [
-    "frozen"
+    "wildwood"
   ],
   "growthModifier": 1
 }

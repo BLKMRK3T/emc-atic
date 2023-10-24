@@ -1,13 +1,13 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "divine_rpg:apalachia_grass"
+    "item": "divinerpg:frozen_grass"
   },
   "display": {
-    "block": "divine_rpg:apalachia_grass"
+    "block": "divinerpg:frozen_grass"
   },
   "categories": [
-    "apalachia"
+    "frozen"
   ],
   "growthModifier": 1
 }

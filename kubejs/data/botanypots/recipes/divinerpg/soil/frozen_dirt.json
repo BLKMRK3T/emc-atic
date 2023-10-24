@@ -1,13 +1,13 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "divine_rpg:eden_dirt"
+    "item": "divinerpg:frozen_dirt"
   },
   "display": {
-    "block": "divine_rpg:eden_dirt"
+    "block": "divinerpg:frozen_dirt"
   },
   "categories": [
-    "eden"
+    "frozen"
   ],
   "growthModifier": 1
 }
