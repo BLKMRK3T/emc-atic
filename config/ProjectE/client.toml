@@ -12,4 +12,6 @@
 	pedestalToolTips = true
 	#The Philosopher's Stone overlay softly pulsates
 	pulsatingOverlay = false
+	#Requires holding shift to display the learned/unlearned text as a tooltip on items and blocks. Note: this does nothing if emcToolTips is disabled.
+	shiftLearnedToolTips = true
 
